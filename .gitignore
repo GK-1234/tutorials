@@ -77,4 +77,6 @@ apache-avro/src/main/java/com/baeldung/avro/model/
 jta/transaction-logs/
 software-security/sql-injection-samples/derby.log
 spring-soap/src/main/java/com/baeldung/springsoap/gen/
-.checkpoint/
+
+#Spark files
+apache-spark/.checkpoint/
